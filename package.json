@@ -1,0 +1,34 @@
+{
+  "name": "formprodutos",
+  "version": "1.0.0",
+  "description": "Projeto Formulario de Prod(node)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KayckAmaral/FormProdutos.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "GET",
+    "JAVASCRIPT",
+    "NODE",
+    "EXPRESS",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Kayck Amaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KayckAmaral/FormProdutos/issues"
+  },
+  "homepage": "https://github.com/KayckAmaral/FormProdutos#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
